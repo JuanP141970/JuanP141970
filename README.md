@@ -58,9 +58,9 @@ I'm an electronics engineer currently developing my skills in **Data Analytics**
 
 ## Featured Projects
 
-<!--Start_section:Activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--End_section:Activity-->
+<!--RECENT_ACTIVITY:last_update-->
 ---
 
 ## GitHub Statistics
