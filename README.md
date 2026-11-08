@@ -59,15 +59,15 @@ I'm an electronics engineer currently developing my skills in **Data Analytics**
 ## Featured Projects
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0](https://github.com/JuanP141970/ReleasesPrueba/releases/tag/v0.1.0) in [JuanP141970/ReleasesPrueba](https://github.com/JuanP141970/ReleasesPrueba)<br>
-2. 💪 Opened PR [#2](undefined) in [JuanP141970/AprendiendoConPlatzi3](https://github.com/JuanP141970/AprendiendoConPlatzi3)<br>
-3. 💪 Opened PR [#1](undefined) in [JuanP141970/AprendiendoConPlatzi3](https://github.com/JuanP141970/AprendiendoConPlatzi3)<br>
-4. ⬆️ Pushed undefined commit(s) to [JuanP141970/JuanP141970](https://github.com/JuanP141970/JuanP141970)<br>
-5. ⬆️ Pushed undefined commit(s) to [JuanP141970/JuanP141970.github.io](https://github.com/JuanP141970/JuanP141970.github.io)<br>
+1. ⬆️ Pushed undefined commit(s) to [JuanP141970/JuanP141970](https://github.com/JuanP141970/JuanP141970)<br>
+2. ⬆️ Pushed undefined commit(s) to [JuanP141970/AprendiendoConPlatzi3](https://github.com/JuanP141970/AprendiendoConPlatzi3)<br>
+3. ⬆️ Pushed undefined commit(s) to [JuanP141970/JuanP141970](https://github.com/JuanP141970/JuanP141970)<br>
+4. ⬆️ Pushed undefined commit(s) to [JuanP141970/AprendiendoConPlatzi3](https://github.com/JuanP141970/AprendiendoConPlatzi3)<br>
+5. ⬆️ Pushed undefined commit(s) to [JuanP141970/AprendiendoConPlatzi3](https://github.com/JuanP141970/AprendiendoConPlatzi3)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 8th, 2026, 12:24:22 AM
+Last Updated: Sunday, November 8th, 2026, 12:26:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
