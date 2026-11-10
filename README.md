@@ -59,15 +59,15 @@ I'm an electronics engineer currently developing my skills in **Data Analytics**
 ## Featured Projects
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [JuanP141970/JuanP141970](https://github.com/JuanP141970/JuanP141970)<br>
-2. ⬆️ Pushed undefined commit(s) to [JuanP141970/AprendiendoConPlatzi3](https://github.com/JuanP141970/AprendiendoConPlatzi3)<br>
+1. ⬆️ Pushed undefined commit(s) to [JuanP141970/ReleasesPrueba](https://github.com/JuanP141970/ReleasesPrueba)<br>
+2. ⬆️ Pushed undefined commit(s) to [JuanP141970/JuanP141970](https://github.com/JuanP141970/JuanP141970)<br>
 3. ⬆️ Pushed undefined commit(s) to [JuanP141970/JuanP141970](https://github.com/JuanP141970/JuanP141970)<br>
 4. ⬆️ Pushed undefined commit(s) to [JuanP141970/AprendiendoConPlatzi3](https://github.com/JuanP141970/AprendiendoConPlatzi3)<br>
-5. ⬆️ Pushed undefined commit(s) to [JuanP141970/AprendiendoConPlatzi3](https://github.com/JuanP141970/AprendiendoConPlatzi3)<br>
+5. ⬆️ Pushed undefined commit(s) to [JuanP141970/JuanP141970](https://github.com/JuanP141970/JuanP141970)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 9th, 2026, 12:45:23 PM
+Last Updated: Tuesday, November 10th, 2026, 12:24:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
